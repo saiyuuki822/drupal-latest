@@ -1,0 +1,12 @@
+uuid: 2b95ebb3-3c04-4beb-9e65-44659ebc902f
+langcode: ja
+status: false
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: 6GCOQ-jP2RbdbHA5YWQ6bT8CfGbqrBYKOSC_XY4E3ZM
+id: node.search_result
+label: 入力文字をハイライトした検索結果
+targetEntityType: node
+cache: true
