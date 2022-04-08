@@ -1,0 +1,7 @@
+# .gitignore が置かれたディレクトリ内のvendorを除外
+vendor
+sites/default/files/php
+sites/default/files/css
+sites/default/files/js
+composer.json
+composer.lock
